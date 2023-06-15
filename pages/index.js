@@ -24,8 +24,8 @@ export default function Home() {
         >
           <Card.Body>
             <Card.Img variant="top" src="img/banner1.png" />
-            <Card.Title>Cadastre o Seu Pet</Card.Title>
-            <Button variant="light">Cadastre o Seu Pet</Button>
+            <Card.Title>Faça o Cadastro do seu Pet</Card.Title>
+            <Button variant="light" href='cdpet/form'>Cadastre o Seu Pet</Button>
           </Card.Body>
         </Card>
       </div>
