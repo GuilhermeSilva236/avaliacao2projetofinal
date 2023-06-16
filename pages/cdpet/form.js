@@ -31,9 +31,7 @@ export const form = () => {
                                     style={{ width: '40rem' }}
                                 >
                                     <Card.Body>
-                                        <Card.Img variant="top" src="/img/banner1.png" />
-                                        <Card.Title>Cadastre o Seu Pet</Card.Title>
-                                        <Button variant="light">Cadastre o Seu Pet</Button>
+                                        <Card.Img variant="top" src="/img/banner1.png" />                                
                                     </Card.Body>
                                 </Card>
                             </div>
